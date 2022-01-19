@@ -1,0 +1,4 @@
+out/*
+java/lib/*
+java.iml
+java/.idea/*

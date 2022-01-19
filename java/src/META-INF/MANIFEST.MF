@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com.paligoutilities.Main
+Class-Path: javafx.base.jar saxon-he-10.2.jar
+

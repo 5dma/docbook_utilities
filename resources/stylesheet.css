@@ -1,0 +1,51 @@
+body {
+    font-family: "DejaVu Sans", Helvetica, Arial, sans-serif;
+}
+
+table.listelement td:nth-child(1) {
+    width:10%;
+}
+
+table.output td:nth-child(2) {
+    width:20%;
+}
+
+table.output td:nth-child(3) {
+    width:70%;
+}
+
+th {
+    text-align: left;
+    border-bottom: 2px solid black;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+td {
+    border-bottom: 1px solid black;
+    padding-left: 1em;
+    padding-right: 1em;
+    word-break: break-all;
+    word-break: break-word;
+}
+
+td.alignright {
+    text-align: right;
+}
+
+
+
+th.topicid {
+    width:10%
+}
+th.topictitle {
+    width:20%;
+}
+th.url {
+    width:60%
+}
+th.statuscode {
+    width:10%;
+}
+.target {
+    font-family: Consolas, Monaco, Menlo, Courier, "Courier New", "Andale Mono", "DejaVu Sans Mono", monospace
+}
